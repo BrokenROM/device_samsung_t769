@@ -1,3 +1,3 @@
-add_lunch_combo candy5_t769-user
-add_lunch_combo candy5_t769-userdebug
-add_lunch_combo candy5_t769-eng
+add_lunch_combo broken_t769-user
+add_lunch_combo broken_t769-userdebug
+add_lunch_combo broken_t769-eng
